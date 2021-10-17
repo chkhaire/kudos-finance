@@ -1,0 +1,50 @@
+.Clock {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 700px;
+  height:500px;
+  color: brown;
+  font-size: 80px;
+  
+}
+
+.odd{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 1000px;
+  height:600px;
+  padding:20px;
+ 
+  background-color: black;
+}
+
+.even{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 1000px;
+  height:600px;
+  padding:20px;
+
+  background-color: white;
+}
+
+#root{
+ padding:20px;
+ width: 100%;
+ height:100%;
+}
+body{
+  width: 100%;
+  height:100%;
+  background-color:black;
+  padding:20px;
+}
+html{
+  height:100%;
+  width:100%;
+  background-color: aqua;
+
+}
